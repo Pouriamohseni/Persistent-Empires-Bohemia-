@@ -1,3 +1,4 @@
+I worked as an artist and scripter for the Persistent Empire mod for Mount & Blade II: Bannerlord. I designed and created maps for the online player community, blending artistic design with technical scripting to improve the gameplay experience.
 My work has been noticed by popular streamers and youtubers like Asmongold!
 Here is the video with over 700,000 views featuring my work:
 
