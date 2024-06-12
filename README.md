@@ -7,3 +7,9 @@ https://www.youtube.com/watch?v=OtN-IaeiZs0&t=282s&ab_channel=AsmongoldTV
 ![Screenshot (1541)](https://github.com/Pouriamohseni/Persistent-Empires-Bohemia-/assets/145625808/f42e09b2-a356-44cb-9e70-5a563e2b101a)
 
 ![Screenshot (1653)](https://github.com/Pouriamohseni/Persistent-Empires-Bohemia-/assets/145625808/e2ecc265-6c9d-4fc9-9ccc-f4373227926d)
+
+![Screenshot (1812)](https://github.com/Pouriamohseni/Persistent-Empires-Bohemia-/assets/145625808/5a414167-8ffa-4882-a27a-cc505c0928d2)
+
+![Screenshot (1753)](https://github.com/Pouriamohseni/Persistent-Empires-Bohemia-/assets/145625808/b9bcb2f8-b4c2-4f01-80c5-6e8c2a92eddb)
+
+![Screenshot (1770)](https://github.com/Pouriamohseni/Persistent-Empires-Bohemia-/assets/145625808/8df05220-7976-4d2e-945d-645f7cc29b1a)
