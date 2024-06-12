@@ -1,4 +1,4 @@
-I worked as an artist and scripter for the Persistent Empire mod for Mount & Blade II: Bannerlord. I designed and created maps for the online player community, blending artistic design with technical scripting to improve the gameplay experience.
+I worked as an artist and scripter for the Persistent Empire mod for Mount & Blade II: Bannerlord. I designed and created a huge open-world map for the online player community, blending artistic design with technical scripting to improve the gameplay experience.
 My work has been noticed by popular streamers and youtubers like Asmongold!
 Here is the video with over 700,000 views featuring my work:
 
@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=OtN-IaeiZs0&t=282s&ab_channel=AsmongoldTV
 Project Images:
 
 ![Screenshot (1413)](https://github.com/Pouriamohseni/Persistent-Empires-Bohemia-/assets/145625808/29d51614-bfa6-42b5-bcc3-b27b158a79e5)
+
+![Screenshot (2407)](https://github.com/Pouriamohseni/Persistent-Empires-Bohemia-/assets/145625808/1157e35b-fc0b-42e1-b776-5d5523404afa)
 
 ![Screenshot (1441)](https://github.com/Pouriamohseni/Persistent-Empires-Bohemia-/assets/145625808/20045f7f-a9c7-49b5-9c8e-7c81e353b8d8)
 
