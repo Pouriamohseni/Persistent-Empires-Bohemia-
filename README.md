@@ -1,4 +1,5 @@
 My work has been noticed by popular streamers and youtubers like Asmongold!
+Here is the video with over 700,000 views featuring my work:
 
 https://www.youtube.com/watch?v=OtN-IaeiZs0&t=282s&ab_channel=AsmongoldTV
 
