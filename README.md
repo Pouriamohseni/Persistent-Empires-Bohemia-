@@ -1,5 +1,5 @@
 I worked as an artist and scripter for the Persistent Empire mod (Avresia) for Mount & Blade II: Bannerlord. I designed and created a huge open-world map for the online player community, blending artistic design with technical scripting to improve the gameplay experience.
-My work has been noticed by popular streamers and youtubers such as Asmongold!
+The mod has been noticed by popular streamers and Youtubers such as Asmongold!
 Here is the video with over 700,000 views featuring the mod:
 
 https://www.youtube.com/watch?v=OtN-IaeiZs0&t=282s&ab_channel=AsmongoldTV
